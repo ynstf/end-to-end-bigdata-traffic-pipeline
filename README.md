@@ -98,7 +98,8 @@ We use Airflow to manage the Spark jobs. The DAG `smart_city_pipeline` includes 
 2.  **`process_traffic_spark`**: Submits the Spark job to the cluster.
 3.  **`validate_data`**: Checks Postgres to ensure new metrics were written.
 
-![Airflow Pipeline](images/airflow_dag.png)
+<img width="1338" height="578" alt="image" src="https://github.com/user-attachments/assets/de3d4e23-576e-4534-9312-303b403b00e8" />
+
 
 
 **To Run**:
