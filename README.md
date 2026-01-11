@@ -117,6 +117,8 @@ Once the pipeline runs successfully, data flows into Postgres. Grafana visualize
 
 <img width="1349" height="681" alt="grafna" src="https://github.com/user-attachments/assets/b6d8931c-bb1e-4a50-9647-b7a44de29d01" />
 
+<img width="1333" height="641" alt="image" src="https://github.com/user-attachments/assets/af2f4469-6cd6-4fcf-b17a-c55082fb1fc9" />
+
 
 ---
 
